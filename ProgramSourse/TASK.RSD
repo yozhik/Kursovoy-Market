@@ -1,0 +1,11 @@
+To develop complex of programs for automation work manager of the computer  firm "TEAM".
+The complex of programs must carry out the following functions:
+- searching information according to user's request (for given criteria: name, main haracteristic, firm, price);
+- displaying all catalogue on the monitor and print it;
+- the information of good by user's request;
+Complex of programs should include the menu and authors screensaver using  Graphics module.
+Program should work in distributed graphics menu mode, in which the work of professional user with data base is expected (creating, adding,editing, deleting) and DB protection from ordinary user.
+Program package should contain standard modules and user's modules,authors screensaver generation program, procedures and functions standard libraries.
+Content of course work:
+- individual task and explanatory note;
+- software on CD.

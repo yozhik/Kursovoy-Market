@@ -1,0 +1,22 @@
+Name            Haracteristic                  Firma      Price,$  Number   Artikul
+
+Modem           2ports                         Callisto   43       2        7      
+Modem           2ports                         D-Link     30       10       5      
+Monitor         17' Liquid                     Samsung    190      7        1      
+Monitor         17' Liquid                     Sony       163      15       4      
+Monitor         17' Liquid                     Sony       152      17       3      
+Mysh            small                          AsRock     29       11       3      
+Mysh            multi mouse                    AsRock     18       18       2      
+Mysh            multi mouse                    A4Tech     27       6        7      
+Mysh            4 buttons                      AsRock     26       8        10     
+OZU             2048Mb DDR2                    ACER       29       12       6      
+OZU             4096Mb DDR2                    Sony       25       19       5      
+OZU             128Mb DDR1                     Sony       21       17       8      
+USB             2m-grey                        ACER       7        12       10     
+USB             5m-white                       HP         1        9        8      
+USB             3m-black                       HP         6        5        1      
+USB             3m-black                       ASUS       4        18       2      
+USB             3m-black                       HP         6        9        4      
+USB             5m-white                       ACER       4        16       6      
+USB             2m-grey                        HP         3        7        9      
+Videokarta      1024Mb                         AsRock     114      3        9      

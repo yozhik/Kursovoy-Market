@@ -1,0 +1,7 @@
+<UP,DOWN,RIGHT,LEFT> - to move through menu;
+<Esc> - press for EXIT;
+<ENTER> - press to confirm choice;
+<z> - press to put TechItem in the busket;
+<d,backspace> - press to delete TechItem;
+<e> - press to edit TechItem;
+
